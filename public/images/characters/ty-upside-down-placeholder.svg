@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 720" role="img" aria-labelledby="title desc">
+  <title id="title">Ty illustration placeholder</title>
+  <desc id="desc">A transparent line-art placeholder showing where Tylah's final upside-down character illustration should be placed.</desc>
+  <g fill="none" stroke="#fffaf0" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity=".82">
+    <path d="M242 24c49 45 61 108 34 190" />
+    <path d="M336 27c-35 62-45 126-30 195" />
+    <path d="M238 229c42-24 96-4 113 39 19 47-11 105-65 119-45 12-96-12-111-55-15-42 17-83 63-103Z" />
+    <path d="M174 360c-62 32-94 77-96 136" />
+    <path d="M210 393c-24 64-18 132 19 205" />
+    <path d="M93 510c59 6 102-7 129-38" />
+    <path d="M226 617c47-39 80-44 112-16" />
+    <path d="M92 504c-23 54-20 111 10 170" />
+    <path d="M101 672c66-49 134-66 202-52" />
+    <path d="M111 358l-82 105" />
+  </g>
+  <path d="M24 460 112 350" stroke="#f4dfbf" stroke-width="12" stroke-linecap="round"/>
+  <text x="48" y="704" fill="#fffaf0" font-family="Arial, sans-serif" font-size="24" font-weight="700">Replace with Ty's final transparent PNG/WebP</text>
+</svg>
